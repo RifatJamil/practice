@@ -8,23 +8,38 @@ color:white;
 
 #header{
     text-align: center;
+    font-size: 50px;
 }
 #name{
-    color: rgb(0, 236, 0);
+    color: rgb(255, 0, 64);
 }
 .half-width{
     width: 50%;
     padding-left: 50px;
     margin-bottom: 10%;
+    padding-right: 50px;
+}
+#hire{
+    text-align: center;
+    color: tomato;
 }
 #razer img{
-    width: 65%;
+    width: 75%;
     padding-left: 20%;
 }
 #gear img{
-    width: 70%;
+    width:75%;
     padding-left: 20%;
 }
 .flex-container{
     display: flex;
+}
+#game-gear{
+    color: rgb(0, 236, 0);
+}
+#journey{
+    color:rgb(0, 247, 255);
+}
+#soldier{
+    color: yellow;
 }
