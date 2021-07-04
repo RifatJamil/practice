@@ -1,7 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #30ff07;
-    background-image: linear-gradient(135deg, #30ff07 0%, #000000 24%, #000000 83%);
+    background-color: #004700;
+background-image: linear-gradient(135deg, #004700 0%, #151808 29%, #000000 83%);
+
+
     
 color:white;
 }
@@ -14,6 +16,12 @@ color:white;
 }
 .half-width{
     width: 50%;
+    padding-left: 50px;
+    margin-bottom: 10%;
+}
+.half-width img{
+    width: 40%;
+    padding-left: 300px;
 }
 .flex-container{
     display: flex;
