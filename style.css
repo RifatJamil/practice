@@ -2,12 +2,17 @@ body{
     font-family: 'Kaushan Script', cursive;
 font-family: 'Russo One', sans-serif;
 }
+
 #header{
-    text-align: center;
     font-family:'Kaushan Script', cursive;
-    font-size: 30px;
+    text-align: center;
 }
 #name{
     color: rgb(0, 236, 0);
 }
-
+.half-width{
+    width: 50%;
+}
+.flex-container{
+    display: flex;
+}
