@@ -2,9 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #004700;
 background-image: linear-gradient(135deg, #004700 0%, #151808 29%, #000000 83%);
-
-
-    
+text-align: justify;    
 color:white;
 }
 
@@ -19,9 +17,13 @@ color:white;
     padding-left: 50px;
     margin-bottom: 10%;
 }
-.half-width img{
-    width: 40%;
-    padding-left: 300px;
+#razer img{
+    width: 65%;
+    padding-left: 20%;
+}
+#gear img{
+    width: 70%;
+    padding-left: 20%;
 }
 .flex-container{
     display: flex;
