@@ -49,6 +49,10 @@ p{
 #soldier{
     color: yellow;
 }
+#soldier-head{
+    font-size: 60px;
+    color: rgb(255, 0, 0);
+}
 .gaming-gear{
     display: flex;
     width: 30%;
@@ -79,4 +83,9 @@ p{
     border-image: linear-gradient(rgb(0, 247, 255)70%, rgb(0, 4, 255));
     border-image-slice: 1;
 }
-
+#hire-text{
+    width: 60%;
+    text-align:justify;
+    margin-left: 20%;
+    margin-right: 20%;
+}
